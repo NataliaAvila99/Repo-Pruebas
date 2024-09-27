@@ -3,3 +3,5 @@ brew install git
 
 -> linux
 sudo apt  install git
+
+->Windows
